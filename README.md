@@ -1,5 +1,7 @@
 ## Benchmark
 
+Just run `node index`
+
 In general the classic for loop is the one with better performance
 
  - For-loop x 43,623 ops/sec ±2.45% (84 runs sampled)
